@@ -6,7 +6,7 @@
 <br>A Decentralized e-Voting Portal based on Ethereum Blockchain. 
 
 ## About
-This is a Blockchain-based project, made by me [[Anmol Singh Yadav](https://www.linkedin.com/in/anmolsinghyadav/)] as a semester project in Vellore Institute of Technology. This projet is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
+This is a Blockchain-based project, made by me [Ravid Prince Manjalil](https://www.linkedin.com/in/ravid-prince-manjalil/)] as a semester project in Vellore Institute of Technology. This projet is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
 In this project we have used Etherem Blockchain to demonstrate the voting procedure.
 
 ## How to Run the Project ?
@@ -22,11 +22,11 @@ sudo apt install npm
 sudo npm install -g truffle
 ```
 * [Ganache](https://www.trufflesuite.com/ganache): For Personal Ethereum Blockchain
- <div align="cemter"><img src="/docs/ganache-home-empty.png" height=320 width=560/></div> <br/>
+ <div align="cemter"><img src="VoteChain-main/docs/ganache-home-empty.png" height=320 width=560/></div> <br/>
 
 * [Web3Js](https://web3js.readthedocs.io/en/v1.3.0/): Ethereum Javascript Library
 * [Metamask](https://metamask.io/): Extension for your Browser 
- <div align="cemter"><img src="/docs/meta.png" height=320 width=560/></div> <br/>
+ <div align="cemter"><img src="VoteChain-main/docs/meta.png" height=320 width=560/></div> <br/>
 
 
 
